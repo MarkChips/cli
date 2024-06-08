@@ -1,5 +1,5 @@
 # demonstration purposes
-I am trying to find out what happens if I delete the branch on GitHub and try to pull from the deleted branch on gitpod.
+Let's see if I can push from vscode on linux
 
 Welcome! [Code Institute](https://codeinstitute.net)
 
